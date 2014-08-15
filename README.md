@@ -1,4 +1,4 @@
-CapDL initializer for seL4
+CapDL initialiser for seL4
 ==========================
 
 This repository contains the capDL initialiser for seL4.
